@@ -1,5 +1,5 @@
 print("name")
 print("age")
-print ("favourite colour")
-print ("favourite TV show")
+print("Favourite colour")
+print("Favourite TV show")
 
