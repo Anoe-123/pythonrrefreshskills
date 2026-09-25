@@ -11,5 +11,6 @@ while light < 4:
        print("GREEN")
    else:
        print("AMBER")
+       (light) = -1 # Reset so the cycle starts again
    time.sleep(3)
    light = change_light(light)
